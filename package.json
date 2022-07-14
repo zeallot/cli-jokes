@@ -9,6 +9,16 @@
   "bin": {
     "cli-jokes": "./index.js"
   },
+  "keywords": [
+    "jokes",
+    "cli",
+    "cli-jokes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeallot/cli-jokes.git"
+  },
+  "homepage": "https://github.com/zeallot/cli-jokes",
   "type": "module",
   "author": "iLoveMyMom",
   "license": "ISC",

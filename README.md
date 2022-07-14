@@ -1,7 +1,7 @@
 # cli-jokes
 > jokes in your console
 
-[Git](https://github.com/zeallot/cli-jokes)
+[Git](https://github.com/zeallot/cli-jokes) | [npm](https://www.npmjs.com/package/cli-jokes)
 
 ## Installation
 - Run the command `npm install cli-jokes -g`
