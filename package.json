@@ -1,0 +1,20 @@
+{
+  "name": "cli-jokes",
+  "version": "1.0.0",
+  "description": "Jokes in your console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "cli-jokes": "./index.js"
+  },
+  "type": "module",
+  "author": "iLoveMyMom",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^5.0.1",
+    "commander": "^9.3.0"
+  }
+}
