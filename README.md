@@ -17,6 +17,6 @@
 - Push to the branch: git push origin my-new-feature
 - Submit a pull request.
 
-##Release notes
+## Release notes
 - v. 1.0.0
   - Init project
