@@ -1,10 +1,10 @@
 #! /usr/bin/env node
 import { program } from 'commander';
 import chalk from 'chalk';
-import axios from 'axios';
 
 async function fetchRandomJoke() {
-  return (await axios.get('http://89.108.102.155:7000/randomJoke')).data;
+  const response = await fetch('http://89.108.102.155:7000/randomJoke');
+  return response.json();
 }
 
 const rollJoke = async () => {
